@@ -1,0 +1,21 @@
+.shop-area {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.products-area {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
+    width: 73%;
+    margin: 0 auto;
+    padding-top: 5rem;
+}
+
+.cart-area {
+    background-color: #FFE0B3;
+}
+
+.cart-area h2 {
+    text-align: center;
+}
