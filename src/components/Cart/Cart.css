@@ -1,6 +1,9 @@
 .cart-area {
     background-color: #FFE0B3;
     padding: 1rem;
+    position: fixed;
+    right: 0;
+    top: 25%;
 }
 
 .cart-area h2 {
